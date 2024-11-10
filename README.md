@@ -18,6 +18,7 @@ Resume CV Builder is a powerful, user-friendly web application that allows users
   - [Technologies Used](#technologies-used)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Live Website](#live-website)
 
 ## Features
 
@@ -132,3 +133,7 @@ Contributions to the Resume CV Builder are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License.
+
+## Live Website
+
+To test the live website, visit: [www.resumecvbuilder.vercel.app](https://www.resumecvbuilder.vercel.app)
