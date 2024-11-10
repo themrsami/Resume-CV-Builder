@@ -48,12 +48,12 @@ To set up the Resume CV Builder on your local machine, follow these steps:
 
 3. Install the dependencies:
    ```
-   npm install
+   pnpm install
    ```
 
 4. Start the development server:
    ```
-   npm run dev
+   pnpm dev --turbo
    ```
 
 5. Open your browser and visit `http://localhost:3000` to view the application.
